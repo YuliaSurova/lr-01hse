@@ -1,0 +1,14 @@
+/app
+/main
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dSYM/
+*.dSYM
+*.tmp
+*.log
+*.swp
+.DS_Store
