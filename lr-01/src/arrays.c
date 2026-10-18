@@ -20,6 +20,8 @@ int read_array(double A[], int capacity){
     return n;
 }
 
+
+
 //ввод длины,проверка на правельность 
 int read_length(int capacity){
     int length;

@@ -1,0 +1,49 @@
+# Сборка
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.lib
+
+# Исполняемые файлы
+*.exe
+*.out
+*.app
+/app
+/main
+main.exe
+
+# Отладочная информация (macOS)
+.DS_Store
+*.dSYM/
+*.dSYM
+
+# Каталоги сборки
+build/
+bin/
+cmake-build-*/
+out/
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+Makefile
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+
+# Временные/тестовые файлы
+test.txt
+
+# Логи
+*.log
